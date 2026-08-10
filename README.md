@@ -63,6 +63,5 @@ cavity-free result against the CFOUR reference value.
 - Exact numerical agreement with the CFOUR reference is not expected: the
   reference is an analytic CCSD relaxed-density DBOC, while this script
   uses CISD on a QED-HF reference and a numerical finite-difference
-  Laplacian. Agreement in sign and order of magnitude is the relevant
-  check.
+  Laplacian. 
 
